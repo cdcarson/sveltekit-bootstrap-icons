@@ -1,6 +1,11 @@
 {
 	"name": "sveltekit-bootstrap-icons",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cdcarson/sveltekit-bootstrap-icons.git"
+	},
+	"license": "MIT",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "svelte-kit sync && svelte-package",
